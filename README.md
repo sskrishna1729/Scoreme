@@ -1,0 +1,2 @@
+# Scoreme
+Hackathon
