@@ -36,3 +36,10 @@ Saves extracted tables into Excel sheets, creating separate sheets per table.
 5. Validation
 
 The extracted tables can be compared with the original PDFs to verify accuracy.
+
+# Setup Instructions
+
+Requirements
+
+Ensure you have Python installed, then install dependencies:
+pip install pymupdf pandas openpyxl
